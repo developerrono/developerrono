@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/iamrono" target="blank"><img src="https://img.shields.io/twitter/follow/iamrono?logo=twitter&style=for-the-badge" alt="iamrono" /></a> </p>
 
 # Hello, I'm RONO
-### Deeloping Softwares And Building Trading Bots
+### Developing Softwares And Building Trading Bots
 <a>Reach Me through</a>
 <p align="left"> <a href="https://twitter.com/iamrono" target="blank"><img src="https://img.shields.io/twitter/follow/iamrono?logo=twitter&style=for-the-badge" alt="iamrono" /></a> </p>
 
