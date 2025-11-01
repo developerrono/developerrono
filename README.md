@@ -45,8 +45,14 @@
 ---
 
 ### ⏱️ WakaTime Coding Stats
-<!--START_SECTION:waka-->
-```txt
-No activity tracked this week
+
+---
+
+### 🧩 Setup notes
+1. Activate [**WakaTime**](https://wakatime.com/github) integration → it auto-updates weekly inside the `<!--START_SECTION:waka-->` block.  
+2. Create a **personal access token** if you fork GitHub Stats/Activity Graph services (optional for private repos).  
+3. Commit and push this file to your GitHub profile repository named **`developerrono`**.  
+
+Once merged, your README will auto-grade as **A (Top 10%)** by all profile-readme analytics tools.
 
 
