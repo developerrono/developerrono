@@ -49,7 +49,7 @@
 ---
 
 ### 🧩 Setup notes
-1. Activate [**WakaTime**](https://wakatime.com/github) integration → it auto-updates weekly inside the `<!--START_SECTION:waka-->` block.  
+1. Activate [**WakaTime**](https://waka-time.vercel.app/) integration → it auto-updates weekly inside the `<!--START_SECTION:waka-->` block.  
 2. Create a **personal access token** if you fork GitHub Stats/Activity Graph services (optional for private repos).  
 3. Commit and push this file to your GitHub profile repository named **`developerrono`**.  
 
