@@ -1,49 +1,54 @@
 <div align="center">
   
-# <kbd>./Developer_Rono_Profile</kbd>
-### <samp>STATUS: Initializing System. Access Granted.</samp>
+# 👨‍💻 Rono: Developer & Cybersecurity Analyst
   
+> **[React | Node.js | Python]** Focused on building secure, performant, and scalable full-stack applications.
   
-[![GitHub Followers](https://img.shields.io/github/followers/developerrono?style=social)](https://github.com/developerrono)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamrono?label=Follow&style=social)](https://twitter.com/iamrono)
-  
-<img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Site-0062D5.svg?logo=link&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Email-Get%20In%20Touch-D73737.svg?logo=mail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-
-![Code Stack Animation](https://readme-typing-svg.herokuapp.com?lines=React+%7C+NodeJS+%7C+Python+%7C+Cybersecurity;Building+Scalable+Solutions;Architecting+Secure+APIs&font=Fira%20Code&size=28&duration=4000&pause=500&color=9C27B0&center=true&vCenter=true)
+[![Professional Portfolio](https://img.shields.io/badge/Portfolio-ronoporfolio.vercel.app-2D4059?style=flat-square&logo=vercel)](https://ronoporfolio.vercel.app/)
+[![Connect on Twitter](https://img.shields.io/badge/Twitter-@iamrono-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/iamrono)
+[![Email Contact](https://img.shields.io/badge/Email-developer.rono%40gmail.com-D73737?style=flat-square&logo=gmail)](mailto:developer.rono@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal (The Stack)
-| Category | Key Technologies |
+## 🎯 Project Focus & Collaboration
+
+| Status | Details |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,typescript,mysql" /> |
-| **Mobile/OS** | <img src="https://skillicons.dev/icons?i=flutter,android,linux" /> |
-| **Design/Tools** | <img src="https://skillicons.dev/icons?i=figma,git,vscode" /> |
+| **Current Work** | Development lead for the **Hospital Management System** (React/Node.js). |
+| **Learning Track** | Advanced security design, focusing on **React Hooks** and hardened **API endpoints**. |
+| **Open to Collab** | High-level API integration and **UI/UX optimization** projects. |
 
 ---
 
-## 🧭 &nbsp;Current Mission Log
-* **Target Project:** Advancing the [Hospital Management System](https://jamii-international-hospital.vercel.app/) with robust testing.
-* **Acquiring Skill:** Deep diving into secure **OAuth 2.0** and **JWT** implementation for API design.
-* **Seeking Collabs:** Open to projects requiring **UI/UX to API pipeline** development.
-* **Connect:** The fastest way is via **developer.rono@gmail.com**.
+## 🔧 Core Competencies (Skill Matrix)
 
----
+A snapshot of the tools and languages I work with daily:
 
-## 📈 &nbsp;Operational Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=vue" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,typescript,tailwind,figma,linux,mysql,git" />
 </p>
 
 ---
 
-## ⏳ &nbsp;Weekly Dev Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerrono&theme=dracula" alt="Activity Graph" />
-</p>
+## 📊 Performance Indicators
 
+<div align="center">
+  
+  ### 🏆 Profile Metrics
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=gotham" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=gotham" alt="Top Languages" />
+  </p>
+
+  ### 🔥 Activity & Engagement
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerrono&theme=gotham" alt="GitHub Streak" />
+
+</div>
+
+---
+
+> 💡 **Note:** The `gotham` theme used above is highly recommended for its clean, white text on dark gray blocks, making the metrics easy to read at a glance.
