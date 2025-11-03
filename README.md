@@ -1,54 +1,61 @@
 <div align="center">
-  
-# 👨‍💻 Rono: Developer & Cybersecurity Analyst
-  
-> **[React | Node.js | Python]** Focused on building secure, performant, and scalable full-stack applications.
-  
-[![Professional Portfolio](https://img.shields.io/badge/Portfolio-ronoporfolio.vercel.app-2D4059?style=flat-square&logo=vercel)](https://ronoporfolio.vercel.app/)
-[![Connect on Twitter](https://img.shields.io/badge/Twitter-@iamrono-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/iamrono)
-[![Email Contact](https://img.shields.io/badge/Email-developer.rono%40gmail.com-D73737?style=flat-square&logo=gmail)](mailto:developer.rono@gmail.com)
+  
+# 👋 Hi, I'm **Developer Rono**
+### 🚀 Passionate Developer | Future Cybersecurity Expert
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamrono?logo=twitter&style=for-the-badge)](https://twitter.com/iamrono)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ronoporfolio.vercel.app-blue?style=for-the-badge)](https://ronoporfolio.vercel.app/)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Building+Systems;Securing+Networks;Solving+Problems;React+%7C+Node+%7C+Tailwind+%7C+Python)
 
 </div>
 
 ---
 
-## 🎯 Project Focus & Collaboration
-
-| Status | Details |
-| :--- | :--- |
-| **Current Work** | Development lead for the **Hospital Management System** (React/Node.js). |
-| **Learning Track** | Advanced security design, focusing on **React Hooks** and hardened **API endpoints**. |
-| **Open to Collab** | High-level API integration and **UI/UX optimization** projects. |
+### 🧠 About Me
+- 🔭 Working on: [Hospital Management System](https://jamii-international-hospital.vercel.app/)
+- 🌱 Learning: React Bits and Secure API Design
+- 🤝 Collaboration: UI/UX and API Integration Projects
+- 💻 Portfolio: [ronoporfolio.vercel.app](https://ronoporfolio.vercel.app/)
+- 📫 Reach me: **developer.rono@gmail.com**
 
 ---
 
-## 🔧 Core Competencies (Skill Matrix)
+### 🧰 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,typescript,python,php,mysql,flutter,linux,figma,html,css,js,android)
 
-A snapshot of the tools and languages I work with daily:
+---
 
+### 📰 Latest Content & Insights (New Feature!)
+* **[Blog Post Title 1]** - Secure API Design: Why JWT is Not Enough (4 days ago)
+* **[Blog Post Title 2]** - Using Tailwind CSS for Rapid React Prototyping (1 week ago)
+* **[Video Title 3]** - My Setup for Ethical Hacking Practice [YouTube] (2 weeks ago)
+> **Note:** This section requires a GitHub Action (like [feed-update](https://github.com/marketplace/actions/feed-update) or similar) to automatically pull the latest posts from your blog RSS feed or YouTube channel.
+
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,typescript,tailwind,figma,linux,mysql,git" />
+  <img src="https://github-profile-trophy.vercel.app/?username=developerrono&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 Performance Indicators
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerrono&theme=transparent" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  
-  ### 🏆 Profile Metrics
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=gotham" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=gotham" alt="Top Languages" />
-  </p>
-
-  ### 🔥 Activity & Engagement
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerrono&theme=gotham" alt="GitHub Streak" />
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developerrono&theme=github-dark)
 
 ---
 
-> 💡 **Note:** The `gotham` theme used above is highly recommended for its clean, white text on dark gray blocks, making the metrics easy to read at a glance.
+### ⏱️ WakaTime Coding Stats
+---
+
+### 🧩 Setup notes
+1. Activate [**WakaTime**](https://waka-time.vercel.app/) integration → it auto-updates weekly inside the `` block.  
+2. **Setup Blog/Feed Action:** Configure a GitHub Action to fetch your RSS/Atom feed and update the `` block.
+3. Commit and push this file to your GitHub profile repository named **`developerrono`**.
