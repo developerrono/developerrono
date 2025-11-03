@@ -1,58 +1,49 @@
 <div align="center">
   
-# 👋 Hi, I'm **Developer Rono**
-### 🚀 Passionate Developer | Future Cybersecurity Expert
+# <kbd>./Developer_Rono_Profile</kbd>
+### <samp>STATUS: Initializing System. Access Granted.</samp>
+  
+  
+[![GitHub Followers](https://img.shields.io/github/followers/developerrono?style=social)](https://github.com/developerrono)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamrono?label=Follow&style=social)](https://twitter.com/iamrono)
+  
+<img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Site-0062D5.svg?logo=link&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Email-Get%20In%20Touch-D73737.svg?logo=mail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamrono?logo=twitter&style=for-the-badge)](https://twitter.com/iamrono)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ronoporfolio.vercel.app-blue?style=for-the-badge)](https://ronoporfolio.vercel.app/)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Building+Systems;Securing+Networks;Solving+Problems;React+%7C+Node+%7C+Tailwind+%7C+Python)
+![Code Stack Animation](https://readme-typing-svg.herokuapp.com?lines=React+%7C+NodeJS+%7C+Python+%7C+Cybersecurity;Building+Scalable+Solutions;Architecting+Secure+APIs&font=Fira%20Code&size=28&duration=4000&pause=500&color=9C27B0&center=true&vCenter=true)
 
 </div>
 
 ---
 
-### 🧠 About Me
-- 🔭 Working on: [Hospital Management System](https://jamii-international-hospital.vercel.app/)
-- 🌱 Learning: React Bits and Secure API Design
-- 🤝 Collaboration: UI/UX and API Integration Projects
-- 💻 Portfolio: [ronoporfolio.vercel.app](https://ronoporfolio.vercel.app/)
-- 📫 Reach me: **developer.rono@gmail.com**
+## 🛠️ &nbsp;Tech Arsenal (The Stack)
+| Category | Key Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,typescript,mysql" /> |
+| **Mobile/OS** | <img src="https://skillicons.dev/icons?i=flutter,android,linux" /> |
+| **Design/Tools** | <img src="https://skillicons.dev/icons?i=figma,git,vscode" /> |
 
 ---
 
-### 🧰 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,typescript,python,php,mysql,flutter,linux,figma,html,css,js,android)
+## 🧭 &nbsp;Current Mission Log
+* **Target Project:** Advancing the [Hospital Management System](https://jamii-international-hospital.vercel.app/) with robust testing.
+* **Acquiring Skill:** Deep diving into secure **OAuth 2.0** and **JWT** implementation for API design.
+* **Seeking Collabs:** Open to projects requiring **UI/UX to API pipeline** development.
+* **Connect:** The fastest way is via **developer.rono@gmail.com**.
 
 ---
 
-### 🏆 GitHub Trophies
+## 📈 &nbsp;Operational Analytics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developerrono&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=vue" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## ⏳ &nbsp;Weekly Dev Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=transparent" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerrono&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerrono&theme=dracula" alt="Activity Graph" />
 </p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developerrono&theme=github-dark)
-
----
-
-### ⏱️ WakaTime Coding Stats
-
----
-
-### 🧩 Setup notes
-1. Activate [**WakaTime**](https://waka-time.vercel.app/) integration → it auto-updates weekly inside the `<!--START_SECTION:waka-->` block.  
-2. Create a **personal access token** if you fork GitHub Stats/Activity Graph services (optional for private repos).  
-3. Commit and push this file to your GitHub profile repository named **`developerrono`**.  
-
-Once merged, your README will auto-grade as **A (Top 10%)** by all profile-readme analytics tools.
-
 
