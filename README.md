@@ -20,7 +20,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=14b8a6&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Builder;Building+with+Purpose" alt="Typing SVG" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerrono&theme=tokyonight&hide_border=true&card_width=400&ring=14b8a6&fire=a9b1d6" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=developerrono&theme=tokyonight&hide_border=true&card_width=400&ring=14b8a6&fire=a9b1d6" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
