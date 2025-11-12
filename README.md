@@ -1,6 +1,6 @@
 <div align="center">
-    
-# ✨ Developer Rono: The Full Stack Alchemist  
+    
+# ✨ Developer Rono: The Full Stack Alchemist  
 ### 💻 Building Secure Futures, One Commit at a Time.
 
 [![Developer Rono](https://img.shields.io/badge/Developer_Rono-MERN%20%7C%20Cybersecurity-14b8a6?style=for-the-badge&logo=react&logoColor=white&labelColor=24283b&color=14b8a6)](https://github.com/developerrono)
@@ -15,14 +15,14 @@
 ---
 
 <table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=14b8a6&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Builder;Building+with+Purpose" alt="Typing SVG" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=developerrono&theme=tokyonight&hide_border=true&card_width=400&ring=14b8a6&fire=a9b1d6" alt="GitHub Streak" />
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=14b8a6&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Builder;Building+with+Purpose" alt="Typing SVG" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=developerrono&theme=tokyonight&hide_border=true&card_width=400&ring=14b8a6&fire=a9b1d6&curr_streak=12&longest_streak=46" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -56,20 +56,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=tokyonight&hide_border=true&icon_color=14b8a6" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=tokyonight&hide_border=true&icon_color=14b8a6" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-> “Code with purpose, secure with passion.”  
-> — Developer Rono ⚡  
+> “Code with purpose, secure with passion.”  
+> — Developer Rono ⚡  
 
-🌍 Based in Kenya  
-🎯 Passionate about **Full Stack Development**, **Cybersecurity**, and **Tech Innovation**  
-📚 Always learning something new — currently diving deeper into **backend optimization & app security**  
+🌍 Based in Kenya  
+🎯 Passionate about **Full Stack Development**, **Cybersecurity**, and **Tech Innovation**  
+📚 Always learning something new — currently diving deeper into **backend optimization & app security**  
 🤝 Open to collaboration on exciting open-source or freelance projects
 
 ---
@@ -85,7 +85,7 @@
 ---
 
 <div align="center">
-  
+  
 ### ✨ Let’s Connect & Build the Future Together
 [![X Follow](https://img.shields.io/twitter/follow/iamrono?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/iamrono)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/developerrono)
@@ -93,7 +93,7 @@
 
 ---
 
-⭐ *If you like what I build, consider giving a star to support my work!*  
+⭐ *If you like what I build, consider giving a star to support my work!*  
 💬 *Let’s connect — I’m always open to learning, building, and collaborating.*
 
 </div>
