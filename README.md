@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Developer Rono 
+# ⚡ Rono KE
 ### *The Full Stack Alchemist*
 **MERN Stack Expert • Cybersecurity Enthusiast • Open Source Builder**
 
