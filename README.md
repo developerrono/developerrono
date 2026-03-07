@@ -1,64 +1,137 @@
 <div align="center">
 
 # ⚡ Rono KE
-### *The Full Stack Alchemist*
-**MERN Stack Expert • Cybersecurity Enthusiast • Open Source Builder**
+### *System Developer • Trader • Founder*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Building+Secure+Futures;Crafting+Digital+Experiences;Optimizing+the+Backend;Securing+the+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Building+Secure+Futures;Crafting+Digital+Experiences;Trading+the+Markets;Engineering+Solutions" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://ronoporfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://rono-ke.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developerrono)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamrono)
 
 ---
 
-### 🛠️ The Laboratory (Tech Stack)
+### 🚀 Featured Projects
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) |
-| **Security** | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=Hackaday) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://rono-ke.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+<br/>
+<b>Personal Portfolio</b>
+<br/>
+<sub>Professional showcase & resume</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://jamii-international-hospital.vercel.app/">
+<img src="https://img.shields.io/badge/Jamii_Hospital-14b8a6?style=for-the-badge&logo=hospital&logoColor=white" />
+</a>
+<br/>
+<b>Jamii International Hospital</b>
+<br/>
+<sub>Healthcare management system</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://tinylabs-creation.vercel.app/">
+<img src="https://img.shields.io/badge/TinyLabs-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<br/>
+<b>TinyLabs</b>
+<br/>
+<sub>Innovation & development studio</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="https://no-trades-journal-book.lovable.app">
+<img src="https://img.shields.io/badge/Trades_Journal-8b5cf6?style=for-the-badge&logo=book&logoColor=white" />
+</a>
+<br/>
+<b>Trades Journal</b>
+<br/>
+<sub>Trading analytics & tracking</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Coming_Soon-gray?style=for-the-badge&logo=rocket&logoColor=white" />
+<br/>
+<b>Next Innovation</b>
+<br/>
+<sub>Stay tuned...</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/More_Projects-gray?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+<b>Explore Repos</b>
+<br/>
+<sub>Check out my work below</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Deployments
-
-**🧁 LuckyDelights** *Minimalist bakery engine with full admin control.* `Vite` • `Shadcn` • `Tailwind`
-
-**🏘️ Jamii Track** *Comprehensive tenant & room management ecosystem.* `MERN Stack` • `Auth` • `UI/UX`
-
-**💳 TinyLabs Solutions** *M-Pesa integrated Wi-Fi billing infrastructure.* `TypeScript` • `Node.js` • `MySQL`
-
----
-
-### 📊 Activity & Insights
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=tokyonight&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=tokyonight&hide_border=true&title_color=2DD4BF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=tokyonight&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=tokyonight&hide_border=true&title_color=2DD4BF&langs_count=8" width="41%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=developerrono&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=2DD4BF" width="89%" />
+  <img src="https://streak-stats.demolab.com?user=developerrono&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerrono&theme=tokyo-night&hide_border=true&color=2DD4BF&line=2DD4BF&point=FFFFFF" width="90%" />
 </p>
 
 ---
 
-### 🧠 Beyond the Code
+### 🎯 About Me
 
-> "Code with purpose, secure with passion."
-
-* 🌍 **Based in:** Kenya
-* 🎯 **Current Focus:** Backend optimization & high-level app security.
-* 🤝 **Collaboration:** I'm always down for open-source or high-impact freelance projects.
-* ⚡ **Fun Fact:** I treat every commit like a defensive maneuver.
+```javascript
+const rono = {
+    role: "System Developer & Trader",
+    location: "🌍 Kenya",
+    company: "Founder @ TinyLabs",
+    focus: ["Backend Engineering", "Trading Systems", "Security"],
+    stack: ["MERN", "TypeScript", "Node.js", "React"],
+    passion: "Building scalable solutions & trading strategies",
+     ONE OF THE GREAT
+};
+```
 
 ---
 
-**Let's build something legendary.** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=developerrono.developerrono&left_text=Profile+Views&color=2DD4BF&style=flat-square)
+### 💼 What I Do
+
+🔧 **System Development** - Building robust, scalable applications  
+📈 **Trading** - Developing and executing data-driven strategies  
+🏢 **TinyLabs** - Leading innovation in software solutions  
+🔐 **Security** - Implementing best practices in application security  
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to collaborating on innovative projects, discussing trading strategies, or exploring new opportunities in tech.
+
+<p align="center">
+  <a href="https://rono-ke.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=100&section=footer" width="100%" />
+</p>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=developerrono.developerrono&left_text=Profile+Views&color=2DD4BF&style=flat-square)
 
 </div>
