@@ -2,40 +2,102 @@
 
 # RONO
 
-### Principal Engineer • Strategic Trader  
-Founder — TinyLabs Creation
+### Builder • Trader • Founder @ TinyLabs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1500&color=FACC15&center=true&vCenter=true&width=520&lines=Scalable+Systems;Agentic+AI+Workflows;Market+Microstructure;TinyLabs+Creation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=F7B42C&center=true&vCenter=true&width=650&lines=Building+Autonomous+Software;Micro-SaaS+Systems;Trading+Analytics;Agentic+Workflow+Tools;TinyLabs+Creation" />
 
 </div>
 
 ---
 
-## Overview
+## About
 
-I design **scalable software systems** and operate in **high-volatility financial markets**.
+I build **software systems, SaaS tools, and automation platforms**.
 
 My work focuses on:
 
-• Full-Stack Engineering  
-• Autonomous AI Systems  
-• Market Liquidity Analysis  
+• Micro-SaaS products  
+• AI and autonomous workflows  
+• Trading analytics tools  
+• Modern full-stack web applications  
 
-Primary focus: **TinyLabs Creation**
+Currently building **TinyLabs Creation**.
 
 ---
 
-## Core Domains
+## Tech Stack
 
-### Engineering
+---
 
-Founder of **TinyLabs Creation**
+### Taco Talk Chat
 
-Building:
+Lightweight real-time messaging application.
 
-- Micro-SaaS platforms
-- Agentic AI systems
-- Minimalist digital architecture
+Features:
 
-Stack
+• Live messaging  
+• Session management  
+• Clean frontend state architecture  
 
+Tech:
+
+---
+
+### Rono Trades Journal
+
+A trading performance tracking platform designed to monitor:
+
+• Weekly P/L  
+• Pair statistics  
+• Trader psychology  
+• Trade journaling  
+
+Tech:
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=developerrono&show_icons=true&theme=transparent&hide_border=true&title_color=f7b42c&icon_color=f7b42c&text_color=ffffff" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerrono&layout=compact&theme=transparent&hide_border=true&title_color=f7b42c&text_color=ffffff" width="48%" />
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=developerrono&theme=transparent&hide_border=true&ring=f7b42c&fire=f7b42c&currStreakLabel=f7b42c&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+
+</p>
+
+---
+
+## Current Focus
+
+---
+
+## Philosophy
+
+Build small systems that solve real problems.
+
+Focus on:
+
+• simplicity  
+• automation  
+• scalability  
+
+---
+
+<div align="center">
+
+### TinyLabs Creation
+
+Building intelligent digital tools.
+
+</div>
