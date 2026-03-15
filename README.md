@@ -4,7 +4,7 @@
 
 ### Builder • Trader • Founder @ TinyLabs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=F7B42C&center=true&vCenter=true&width=650&lines=Building+Autonomous+Software;Micro-SaaS+Systems;Trading+Analytics;Agentic+Workflow+Tools;TinyLabs+Creation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=F7B42C&cente&vCenter=true&width=650&lines=Building+Autonomous+Software;Micro-SaaS+Systems;Trading+Analytics;Agentic+Workflow+Tools;TinyLabs+Creation" />
 
 <br/>
 
