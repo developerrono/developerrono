@@ -52,17 +52,7 @@ Currently building **TinyLabs Creation**.
 
 ---
 
-# Projects
-
-## Taco Talk Chat
-
-Lightweight real-time messaging application.
-
-Features:
-
-• Live messaging  
-• Session management  
-• Clean frontend state architecture  
+# Projects  
 
 Tech
 
